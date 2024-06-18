@@ -6,7 +6,7 @@ import {GoogleAnalytics} from '@next/third-parties/google'
 
 export const metadata = {
     metadataBase: 'http://resumave.vercel.app',
-    title: 'Free Resume Maker | Resumave',
+    title: 'ResumeRocket',
     description:
         'Our tool helps you create a resume that works with job application systems. It makes sure you look good to employers.',
     openGraph: {
